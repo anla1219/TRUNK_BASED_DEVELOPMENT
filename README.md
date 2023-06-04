@@ -1,2 +1,2 @@
 # TRUNK_BASED_DEVELOPMENT
-LAB_2
+LAB_2 Anna Lavrenko
