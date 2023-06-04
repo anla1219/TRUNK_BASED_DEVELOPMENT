@@ -1,2 +1,2 @@
 # TRUNK_BASED_DEVELOPMENT
-LAB_2 Anna Lavrenko
+LAB_2 Anna Lavrenko IN.m-22
